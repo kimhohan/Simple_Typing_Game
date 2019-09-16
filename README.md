@@ -1,8 +1,7 @@
 # Simple_Typing_Game
 c언어로 구현한 간단한 산성비(타자연습)게임 입니다!
 
-- 실핼 결과
-
+실핼 결과
 - 시작화면
 
 ![1](https://user-images.githubusercontent.com/33507553/64964460-134e2480-d8d6-11e9-9578-f7ff62b1b403.png)
